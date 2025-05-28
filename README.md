@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i0nx&label=Profile%20views&color=0e75b6&style=flat" alt="i0nx" /> </p>
 
-- 🔭 I’m currently working on [socialsculpt.xyz](https://socialsculpt.xyz)
+
 
 </p>
 
